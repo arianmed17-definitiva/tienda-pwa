@@ -1,6 +1,6 @@
 // ===== PRODUCTOS (puedes cambiar emojis, nombres y precios) =====
 const PRODUCTS = [
-  { id: 1, name: "Audífonos Aura Pro", emoji: "🎧", tag: "Audio", price: 129.99, desc: "Sonido envolvente 360° con cancelación activa de ruido y 40h de batería." },
+  { id: 1, name: "Audífonos Aura Pro", emoji: "🎧", tag: "Audio", price: 10.00, desc: "Sonido envolvente 360° con cancelación activa de ruido y 40h de batería." },
   { id: 2, name: "Smartwatch Zenith", emoji: "⌚", tag: "Wearables", price: 199.99, desc: "Monitoreo de salud en tiempo real, GPS integrado y pantalla AMOLED." },
   { id: 3, name: "Bocina Pulse 360", emoji: "🔊", tag: "Audio", price: 89.99, desc: "Sonido omnidireccional resistente al agua IPX7 y 24h de duración." },
   { id: 4, name: "Teclado Phantom RGB", emoji: "⌨️", tag: "Accesorios", price: 149.99, desc: "Mecánico táctil con retroiluminación RGB personalizable por tecla." },
