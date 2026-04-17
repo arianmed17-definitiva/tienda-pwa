@@ -1,0 +1,15 @@
+{
+  "name": "lumina-store-pwa",
+  "version": "1.0.0",
+  "description": "Tienda virtual PWA con Stripe — Proyecto universitario",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^35.0.0"
+  }
+}
